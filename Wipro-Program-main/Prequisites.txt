@@ -1,0 +1,21 @@
+
+=-=-=-=-=-=-=7/9/2021=-=-=-=-=-=-=-=
+
+=>I need to concentrate on the errors and fundamentals of the JAVA|C|C++
+
+=>I need to concentrate on the Database|Data Structure for all the programming languages
+
+=>You need to know all the validation in Both Numeric and String
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+=-=-=-= Hierarchy for the Programming language/Any Other thing in Life =-=-=-= 
+
+1.Beginner Fundamentals (To Be Strong)
+
+2.Intermediate (To be Strong in DataStructure)
+
+3.Advanced
+
+4.Expert
